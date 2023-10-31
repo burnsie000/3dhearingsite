@@ -26,7 +26,7 @@ const How = () => {
                         className='shadow-lg rounded-xl'
                         />
                     </div>
-                    <Link aria-label='call us' href='tel:4105905572' className="text-center mt-10 text-brandBlue font-bold text-2xl">Call Us at <br /> 410-590-5572</Link>
+                    <Link aria-label='call us at 410-590-5572' href='tel:4105905572' className="text-center mt-10 text-brandBlue font-bold text-2xl">Call Us at <br /> 410-590-5572</Link>
                 </div>
                 {/* Card 2 */}
                 <div className="flex flex-col items-center shadow-2xl rounded-xl relative bg-gray-100 w-[360px] h-[390px] p-2r">
@@ -40,7 +40,7 @@ const How = () => {
                             className='shadow-lg rounded-xl'
                         />
                     </div>
-                    <Link aria-label='call us' href='tel:4105905572' className="text-center mt-10 text-brandBlue font-bold text-2xl">Schedule Your <br /> Consultation </Link>
+                    <Link aria-label='schedule your consultation' href='tel:4105905572' className="text-center mt-10 text-brandBlue font-bold text-2xl">Schedule Your <br /> Consultation </Link>
                 </div>
                 {/* Card 3 */}
                 <div className="flex flex-col items-center shadow-2xl rounded-xl relative bg-gray-100 w-[360px] h-[390px] p-2r">
@@ -54,7 +54,7 @@ const How = () => {
                             className='shadow-lg rounded-xl'
                         />
                     </div>
-                    <Link aria-label='call us' href='tel:4105905572' className="text-center mt-10 text-brandBlue font-bold text-2xl">Try Hearing Aids <br /> in Person</Link>
+                    <Link aria-label='Try hearing aids in person' href='tel:4105905572' className="text-center mt-10 text-brandBlue font-bold text-2xl">Try Hearing Aids <br /> in Person</Link>
                 </div>
             </div>
         </div>

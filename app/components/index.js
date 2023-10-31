@@ -3,3 +3,7 @@ export { default as How } from './How/How';
 export { default as OrangeBar } from './OrangeBox/OrangeBar';
 export { default as YouTubePlayer } from './YouTubePlayer/YouTubePlayer';
 export { default as Utilization } from './Utilization/Utilization';
+export { default as Brands } from './Brands/Brands';
+export { default as ResoundNEW } from './ResoundNEW/ResoundNEW';
+export { default as Benefits } from './Benefits/Benefits';
+export { default as Trust } from './Trust/Trust';
